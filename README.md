@@ -1,1 +1,1 @@
-Collection of tools and scripts I've found useful or created to solve some kind of janky problem!
+Collection of tools, scripts and notes I've found useful or created to solve some kind of janky problem!
